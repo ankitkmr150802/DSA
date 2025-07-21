@@ -4,4 +4,4 @@ This repo contains DSA questions, including Striver's and POTD from various codi
 2. String
 3. LinkedList 
 4. Stack
-5. Binary Tree 🌲 🌴 
+5. Binary Tree 🌴 
